@@ -1,0 +1,58 @@
+Kevin Analysist 23
+1
+Car Ford Expedition 4 Blue
+y
+Ben Manager 57
+2
+Car Ford Raptor 4 Red
+Motorcycle BMW Red
+y
+Sable Accountant 26
+1
+Car GMC Pickup 2 White
+y
+Bob Manager 43
+1
+Car Dodge Devil 2 Orange
+y
+Teddy  Programmer  17
+2
+Car Chevrolet Camaro  4 Black
+Motorcycle Harley Blue
+y
+Donald Sales 36
+1
+Car Ford Expedition  4  White
+y
+Dustin Sales 36
+1
+Car Ford Raptor 4 Silver
+y
+Betty Analysist 23
+1 
+Car Chevrolet Stingray 2 Red
+y
+Tom Analysist 23
+1
+Car Dodge Charger 4  Black
+y
+Betty Analysist 23
+0
+y
+Bob Manager 44
+1
+Car Chevrolet Stingray 2 Blue
+y
+Sable Sales 32
+1
+Car Dodge Ram 2  White
+y
+Sable Sales 47
+6
+Car Dodge Ram 5  Black
+Plane GeneralDynamics 4 Silver
+Plane GeneralDynamics 6 Camo
+Plane Grumman 4 White
+Plane Lockheed 4 Silver
+Plane Boeing 5 Silver
+n

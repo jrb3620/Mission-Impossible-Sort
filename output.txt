@@ -1,0 +1,125 @@
+Job Type = Programmer
+Name: Teddy, Job: Programmer, Age: 17
+        Vehicle #1: Car: Chevrolet Camaro, Color: Black, Doors: 4
+
+        Vehicle #2: Motorcycle: Harley Camaro, Color: Blue
+
+Job Type = Manager
+Name: Bob, Job: Manager, Age: 43
+        Vehicle #1: Car: Dodge Devil, Color: Orange, Doors: 2
+
+Name: Bob, Job: Manager, Age: 44
+        Vehicle #1: Car: Chevrolet Stingray, Color: Blue, Doors: 2
+
+Name: Ben, Job: Manager, Age: 57
+        Vehicle #1: Car: Ford Raptor, Color: Red, Doors: 4
+
+        Vehicle #2: Motorcycle: BMW Raptor, Color: Red
+
+Job Type = Accountant
+Name: Sable, Job: Accountant, Age: 26
+        Vehicle #1: Car: GMC Pickup, Color: White, Doors: 2
+
+Job Type = Analysist
+Name: Kevin, Job: Analysist, Age: 23
+        Vehicle #1: Car: Ford Expedition, Color: Blue, Doors: 4
+
+Name: Betty, Job: Analysist, Age: 23
+Name: Betty, Job: Analysist, Age: 23
+        Vehicle #1: Car: Chevrolet Stingray, Color: Red, Doors: 2
+
+Name: Tom, Job: Analysist, Age: 23
+        Vehicle #1: Car: Dodge Charger, Color: Black, Doors: 4
+
+Job Type = Sales
+Name: Donald, Job: Sales, Age: 36
+        Vehicle #1: Car: Ford Expedition, Color: White, Doors: 4
+
+Name: Sable, Job: Sales, Age: 32
+        Vehicle #1: Car: Dodge Ram, Color: White, Doors: 2
+
+Name: Dustin, Job: Sales, Age: 36
+        Vehicle #1: Car: Ford Raptor, Color: Silver, Doors: 4
+
+Name: Sable, Job: Sales, Age: 47
+        Vehicle #1: Car: Dodge Ram, Color: Black, Doors: 5
+
+        Vehicle #2: Plane: GeneralDynamics Ram, Color: Silver, Engines: 4
+
+        Vehicle #3: Plane: GeneralDynamics Ram, Color: Camo, Engines: 6
+
+        Vehicle #4: Plane: Grumman Ram, Color: White, Engines: 4
+
+        Vehicle #5: Plane: Lockheed Ram, Color: Silver, Engines: 4
+
+        Vehicle #6: Plane: Boeing Ram, Color: Silver, Engines: 5
+
+Job Type = Manufacturing
+No employees under this job title.
+Job Type = Inventory
+No employees under this job title.
+Job Type = Software Enginneer
+No employees under this job title.
+============================
+Job Type = Programmer (Reverse)
+Name: Teddy, Job: Programmer, Age: 17
+        Vehicle #1: Car: Chevrolet Camaro, Color: Black, Doors: 4
+
+        Vehicle #2: Motorcycle: Harley Camaro, Color: Blue
+
+Job Type = Manager (Reverse)
+Name: Ben, Job: Manager, Age: 57
+        Vehicle #1: Car: Ford Raptor, Color: Red, Doors: 4
+
+        Vehicle #2: Motorcycle: BMW Raptor, Color: Red
+
+Name: Bob, Job: Manager, Age: 44
+        Vehicle #1: Car: Chevrolet Stingray, Color: Blue, Doors: 2
+
+Name: Bob, Job: Manager, Age: 43
+        Vehicle #1: Car: Dodge Devil, Color: Orange, Doors: 2
+
+Job Type = Accountant (Reverse)
+Name: Sable, Job: Accountant, Age: 26
+        Vehicle #1: Car: GMC Pickup, Color: White, Doors: 2
+
+Job Type = Analysist (Reverse)
+Name: Tom, Job: Analysist, Age: 23
+        Vehicle #1: Car: Dodge Charger, Color: Black, Doors: 4
+
+Name: Betty, Job: Analysist, Age: 23
+        Vehicle #1: Car: Chevrolet Stingray, Color: Red, Doors: 2
+
+Name: Betty, Job: Analysist, Age: 23
+Name: Kevin, Job: Analysist, Age: 23
+        Vehicle #1: Car: Ford Expedition, Color: Blue, Doors: 4
+
+Job Type = Sales (Reverse)
+Name: Sable, Job: Sales, Age: 47
+        Vehicle #1: Car: Dodge Ram, Color: Black, Doors: 5
+
+        Vehicle #2: Plane: GeneralDynamics Ram, Color: Silver, Engines: 4
+
+        Vehicle #3: Plane: GeneralDynamics Ram, Color: Camo, Engines: 6
+
+        Vehicle #4: Plane: Grumman Ram, Color: White, Engines: 4
+
+        Vehicle #5: Plane: Lockheed Ram, Color: Silver, Engines: 4
+
+        Vehicle #6: Plane: Boeing Ram, Color: Silver, Engines: 5
+
+Name: Dustin, Job: Sales, Age: 36
+        Vehicle #1: Car: Ford Raptor, Color: Silver, Doors: 4
+
+Name: Sable, Job: Sales, Age: 32
+        Vehicle #1: Car: Dodge Ram, Color: White, Doors: 2
+
+Name: Donald, Job: Sales, Age: 36
+        Vehicle #1: Car: Ford Expedition, Color: White, Doors: 4
+
+Job Type = Manufacturing (Reverse)
+No employees under this job title.
+Job Type = Inventory (Reverse)
+No employees under this job title.
+Job Type = Software Enginneer (Reverse)
+No employees under this job title.
